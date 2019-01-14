@@ -59,11 +59,6 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>sb-french-10.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
 		<key>sb-french-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -80,6 +75,11 @@
 			<integer>0</integer>
 		</dict>
 		<key>sb-french-5.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>sb-french-5to10.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
