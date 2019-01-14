@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"sortie", sentence:""))
-        list.append(Word(word:"croquette", sentence:""))
-        list.append(Word(word:"physique", sentence:""))
-        list.append(Word(word:"elite", sentence:""))
-        list.append(Word(word:"deluxe", sentence:""))
-        list.append(Word(word:"nougat", sentence:""))
-        list.append(Word(word:"rouge", sentence:""))
-        list.append(Word(word:"escargot", sentence:""))
-        list.append(Word(word:"crochet", sentence:""))
-        list.append(Word(word:"regime", sentence:""))
+        list.append(Word(word:"doctrinaire", sentence:""))
+        list.append(Word(word:"tutu", sentence:""))
+        list.append(Word(word:"bevel", sentence:""))
+        list.append(Word(word:"menu", sentence:""))
+        list.append(Word(word:"egalitarian", sentence:""))
+        list.append(Word(word:"quiche", sentence:""))
+        list.append(Word(word:"fatigue", sentence:""))
+        list.append(Word(word:"garage", sentence:""))
+        list.append(Word(word:"morgue", sentence:""))
+        list.append(Word(word:"stethoscope", sentence:""))
     }
 }
