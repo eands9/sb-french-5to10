@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"rapport", sentence:""))
-        list.append(Word(word:"camouflage", sentence:""))
-        list.append(Word(word:"genre", sentence:""))
-        list.append(Word(word:"virgule", sentence:""))
-        list.append(Word(word:"debacle", sentence:""))
-        list.append(Word(word:"fusillade", sentence:""))
-        list.append(Word(word:"saboteur", sentence:""))
-        list.append(Word(word:"renaissance", sentence:""))
-        list.append(Word(word:"chauvinism", sentence:""))
-        list.append(Word(word:"recidivist", sentence:""))
+        list.append(Word(word:"chassis", sentence:""))
+        list.append(Word(word:"croissant", sentence:""))
+        list.append(Word(word:"raconteur", sentence:""))
+        list.append(Word(word:"mayonnaise", sentence:""))
+        list.append(Word(word:"surveillance", sentence:""))
+        list.append(Word(word:"repertoire", sentence:""))
+        list.append(Word(word:"dossier", sentence:""))
+        list.append(Word(word:"taupe", sentence:""))
+        list.append(Word(word:"poignant", sentence:""))
+        list.append(Word(word:"ecru", sentence:""))
     }
 }
