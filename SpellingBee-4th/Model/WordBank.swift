@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"doctrinaire", sentence:""))
-        list.append(Word(word:"tutu", sentence:""))
-        list.append(Word(word:"bevel", sentence:""))
-        list.append(Word(word:"menu", sentence:""))
-        list.append(Word(word:"egalitarian", sentence:""))
-        list.append(Word(word:"quiche", sentence:""))
-        list.append(Word(word:"fatigue", sentence:""))
-        list.append(Word(word:"garage", sentence:""))
-        list.append(Word(word:"morgue", sentence:""))
-        list.append(Word(word:"stethoscope", sentence:""))
+        list.append(Word(word:"vogue", sentence:""))
+        list.append(Word(word:"musicale", sentence:""))
+        list.append(Word(word:"palette", sentence:""))
+        list.append(Word(word:"flamboyant", sentence:""))
+        list.append(Word(word:"baton", sentence:""))
+        list.append(Word(word:"souvenir", sentence:""))
+        list.append(Word(word:"impasse", sentence:""))
+        list.append(Word(word:"finesse", sentence:""))
+        list.append(Word(word:"ingenue", sentence:""))
+        list.append(Word(word:"gauche", sentence:""))
     }
 }
