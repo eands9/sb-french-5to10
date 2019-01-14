@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"neologism", sentence:""))
-        list.append(Word(word:"beige", sentence:""))
-        list.append(Word(word:"diplomat", sentence:""))
-        list.append(Word(word:"motif", sentence:""))
-        list.append(Word(word:"suave", sentence:""))
-        list.append(Word(word:"foyer", sentence:""))
-        list.append(Word(word:"rendezvous", sentence:""))
-        list.append(Word(word:"ambulance", sentence:""))
-        list.append(Word(word:"rehearse", sentence:""))
-        list.append(Word(word:"leotard", sentence:""))
+        list.append(Word(word:"prairie", sentence:""))
+        list.append(Word(word:"diorama", sentence:""))
+        list.append(Word(word:"entourage", sentence:""))
+        list.append(Word(word:"fuselage", sentence:""))
+        list.append(Word(word:"boudoir", sentence:""))
+        list.append(Word(word:"collage", sentence:""))
+        list.append(Word(word:"amenable", sentence:""))
+        list.append(Word(word:"expertise", sentence:""))
+        list.append(Word(word:"matinee", sentence:""))
+        list.append(Word(word:"plateau", sentence:""))
     }
 }
