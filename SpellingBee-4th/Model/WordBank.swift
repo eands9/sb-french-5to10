@@ -12,14 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"peloton", sentence:""))
-        list.append(Word(word:"barrage", sentence:""))
-        list.append(Word(word:"chagrin", sentence:""))
-        list.append(Word(word:"pacifism", sentence:""))
-        list.append(Word(word:"manicure", sentence:""))
-        list.append(Word(word:"altruism", sentence:""))
-        list.append(Word(word:"bureaucracy", sentence:""))
-        list.append(Word(word:"mascot", sentence:""))
-        list.append(Word(word:"parfait", sentence:""))
+        list.append(Word(word:"mystique", sentence:""))
+        list.append(Word(word:"layette", sentence:""))
+        list.append(Word(word:"boutique", sentence:""))
+        list.append(Word(word:"dressage", sentence:""))
+        list.append(Word(word:"croquet", sentence:""))
+        list.append(Word(word:"gorgeous", sentence:""))
+        list.append(Word(word:"denture", sentence:""))
+        list.append(Word(word:"mirage", sentence:""))
+        list.append(Word(word:"denim", sentence:""))
+        list.append(Word(word:"cachet", sentence:""))
     }
 }
