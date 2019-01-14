@@ -12,15 +12,14 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"chassis", sentence:""))
-        list.append(Word(word:"croissant", sentence:""))
-        list.append(Word(word:"raconteur", sentence:""))
-        list.append(Word(word:"mayonnaise", sentence:""))
-        list.append(Word(word:"surveillance", sentence:""))
-        list.append(Word(word:"repertoire", sentence:""))
-        list.append(Word(word:"dossier", sentence:""))
-        list.append(Word(word:"taupe", sentence:""))
-        list.append(Word(word:"poignant", sentence:""))
-        list.append(Word(word:"ecru", sentence:""))
+        list.append(Word(word:"lieutenant", sentence:""))
+        list.append(Word(word:"protégé", sentence:""))
+        list.append(Word(word:"mélange", sentence:""))
+        list.append(Word(word:"blasé", sentence:""))
+        list.append(Word(word:"fête", sentence:""))
+        list.append(Word(word:"clementine", sentence:""))
+        list.append(Word(word:"maladroit", sentence:""))
+        list.append(Word(word:"détente", sentence:""))
+        list.append(Word(word:"garçon", sentence:""))
     }
 }
